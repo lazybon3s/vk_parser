@@ -1,14 +1,16 @@
+# -*- coding: utf-8 -*-
+
 import requests
 import csv
 
 # для работы с API вк
-token = '118b36b6118b36b6118b36b67811e29b3f1118b118b36b64d2f3a40620252f8a4bb54db'
 ver = 5.92
 # offset = 0
 
 # хранилище для постов
 posts = []
 
+token = input('Token: ')
 group_id = input('ID of group to parse: ')
 posts_num = int(input('Number of posts to parse: '))
 
