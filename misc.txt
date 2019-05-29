@@ -1,7 +1,3 @@
-
-
-
-
 https://oauth.vk.com/authorize?client_id=6925705&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends,groups,offline&response_type=token&v=5.95
 
-https://api.vk.com/method/search.getHints?q&=&search_global=1&limit=10&access_token=29c2a31964a7902e9d632cdf2a380ac02107be349e2624a4f8d491791d491c312ebae638ba0d849033112&v=5.95
+https://api.vk.com/method/search.getHints?q&=&search_global=1&limit=10&access_token=3290cf54d92e27867ab51890bae4fd087cd6cae830888a0a67484044b7e05e503cf415cf0aded2320d0d1&v=5.95
